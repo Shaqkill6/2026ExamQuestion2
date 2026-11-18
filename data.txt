@@ -1,0 +1,8 @@
+DATA LOG
+*****************************
+Customer Name:Joe Bloggs
+PRODUCT:Cozy Nights Monarch
+VAT:R525.0
+COMMISSION:R175.0
+TOTAL:R4200.0
+*****************************
